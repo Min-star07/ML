@@ -166,3 +166,4 @@ dataset/
 *.txt
 pytorch-tutorial-master
 old
+data
