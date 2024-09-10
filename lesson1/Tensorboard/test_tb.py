@@ -1,5 +1,7 @@
 from torch.utils.tensorboard import SummaryWriter
 import cv2
+from PIL import Image
+
 
 writer = SummaryWriter("logs")
 

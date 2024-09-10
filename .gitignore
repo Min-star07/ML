@@ -167,3 +167,6 @@ dataset/
 pytorch-tutorial-master
 old
 data
+*.pth
+data
+
